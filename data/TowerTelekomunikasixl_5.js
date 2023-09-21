@@ -1,0 +1,1 @@
+var json_TowerTelekomunikasixl_5 = {"type":"FeatureCollection","name":"TowerTelekomunikasixl_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[101.463846073247495,1.670653561149107]}}]}

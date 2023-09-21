@@ -1,0 +1,1 @@
+var json_JalanGangSetiabakti_15 = {"type":"FeatureCollection","name":"JalanGangSetiabakti_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Jarak":110.149},"geometry":{"type":"MultiLineString","coordinates":[[[101.469754343762006,1.669836072788298],[101.470678208383148,1.669478326933988]]]}}]}
